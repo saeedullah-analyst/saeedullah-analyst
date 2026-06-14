@@ -1,6 +1,4 @@
-# Welcome to my portfolio! Below are my SQL and Power BI projects.
-
----
+# Welcome to my SQP and Power BI projects portfolio! ---
 
 ## Commercial SQL Case Studies
 These repositories showcase advanced relational database engineering, data integration analysis, and performance tuning capabilities using MySQL and PostgreSQL.
@@ -20,7 +18,7 @@ These repositories document interactive data storytelling, analytical dashboard 
 
 ---
 
-## 🛠️ Technical Skills & Core Competencies
+##  Technical Skills & Core Competencies
 
 *   **SQL (PostgreSQL/MySQL):** Multi-Table Joins, CTEs, Window Functions (PARTITION BY, DENSE_RANK), Reusable Views, Correlated Subqueries, Data Plausibility Analysis.
 *   **Power BI & Business Intelligence:** Star Schema Modeling, Advanced DAX Measures (Variables VAR/RETURN), Power Query ETL, Statistical Visualizations (Histograms, Scatter Plots, Median Thresholds).
