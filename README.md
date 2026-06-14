@@ -1,7 +1,4 @@
-# Welcome to my Data Analyst Portfolio
-
-Welcome to my data analytics portfolio. Below is a curated index of my technical case studies, structurally separated by core competencies. 
-
+# Hi, Welcome to my portfolio! Below are my SQL projects and Power BI projects.
 ---
 
 ## 🔍 Commercial SQL Case Studies
