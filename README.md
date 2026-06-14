@@ -9,7 +9,7 @@ These repositories showcase advanced relational database engineering, data integ
 
 *   📁 **[Post-Merger Operational & Logistics Audit (Northwind)](https://github.com/saeedullah-analyst/northwind-data-analysis)**
     *   *Core Skills:* Multi-table Joins, CTE multi-stage architectures, time-delta analytics (`DATEDIFF`), geographic revenue distribution.
-*   📁 **[M&A System Integration & Advanced Analytics (Sakila)](https://github.com)**
+*   📁 **[M&A System Integration & Advanced Analytics (Sakila)](https://github.com/saeedullah-analyst/unique-films-rental-analysis)**
     *   *Core Skills:* Window functions (`OVER`, `DENSE_RANK`), secure reporting view virtualization, dynamic scalar subqueries.
 *   📁 **[Operational Hospitality Logistics & Attrition Diagnostics](https://github.com)**
     *   *Core Skills:* Data plausibility auditing, conditional matrix grouping (`GROUP BY`, `HAVING`), customer cancellation behavioral modeling.
