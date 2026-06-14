@@ -1,9 +1,4 @@
 # Welcome to my portfolio! Below are my SQL and Power BI projects.
-## Technical Skills & Core Competencies
-*   **SQL (PostgreSQL/MySQL):** Multi-Table Joins, CTEs, Window Functions (`PARTITION BY`, `DENSE_RANK`), Reusable Views, Correlated Subqueries, Data Plausibility Auditing.
-*   **Power BI & Business Intelligence:** Star Schema Modeling, Advanced DAX Measures (Variables `VAR`/`RETURN`), Power Query ETL, Statistical Visualizations (Histograms, Scatter Plots, Median Thresholds).
-*   **Methodologies:** Operational Logistics Auditing, Supply Chain KPI Development, Revenue Concentration Analysis, Customer Attrition Modeling.
-
 ---
 
 ## Commercial SQL Case Studies
@@ -25,8 +20,8 @@ These repositories document interactive data storytelling, analytical dashboard 
 *   📁 **[Social Media Marketing ROI & Data Warehousing (TechFuel)](https://github.com)**
 
 ---
+## Technical Skills & Core Competencies
+*   **SQL (PostgreSQL/MySQL):** Multi-Table Joins, CTEs, Window Functions (`PARTITION BY`, `DENSE_RANK`), Reusable Views, Correlated Subqueries, Data Plausibility Auditing.
+*   **Power BI & Business Intelligence:** Star Schema Modeling, Advanced DAX Measures (Variables `VAR`/`RETURN`), Power Query ETL, Statistical Visualizations (Histograms, Scatter Plots, Median Thresholds).
 
-## 🛠️ Core Technical Proficiency
-*   **Databases & Querying:** SQL (PostgreSQL, MySQL, MS SQL Server)
-*   **Business Intelligence:** Power BI Desktop, Power BI Service Cloud, DAX, Power Query (M)
-*   **Languages:** English (Professional), German (Professional/C1)
+
