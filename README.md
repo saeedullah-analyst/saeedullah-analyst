@@ -1,4 +1,4 @@
-# Welcome to my SQP and Power BI projects portfolio! ---
+# Welcome to my SQL and Power BI projects portfolio! ---
 
 ## Commercial SQL Case Studies
 These repositories showcase advanced relational database engineering, data integration analysis, and performance tuning capabilities using MySQL and PostgreSQL.
