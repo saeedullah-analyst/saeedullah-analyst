@@ -11,7 +11,7 @@ These repositories showcase advanced relational database engineering, data integ
     *   *Core Skills:* Multi-table Joins, CTE multi-stage architectures, time-delta analytics (`DATEDIFF`), geographic revenue distribution.
 *   📁 **[M&A System Integration & Advanced Analytics (Sakila)](https://github.com/saeedullah-analyst/unique-films-rental-analysis)**
     *   *Core Skills:* Window functions (`OVER`, `DENSE_RANK`), secure reporting view virtualization, dynamic scalar subqueries.
-*   📁 **[Operational Hospitality Logistics & Attrition Diagnostics](https://github.com)**
+*   📁 **[Operational Hospitality Logistics & Attrition Diagnostics](https://github.com/saeedullah-analyst/hotel-reservation-analysis)**
     *   *Core Skills:* Data plausibility auditing, conditional matrix grouping (`GROUP BY`, `HAVING`), customer cancellation behavioral modeling.
 
 ---
