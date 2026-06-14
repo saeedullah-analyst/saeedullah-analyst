@@ -1,4 +1,4 @@
-# Hi, Welcome to my portfolio! Below are my SQL and Power BI projects.
+# Welcome to my portfolio! Below are my SQL and Power BI projects.
 ---
 
 ## Commercial SQL Case Studies
