@@ -1,7 +1,7 @@
-# Hi, Welcome to my portfolio! Below are my SQL projects and Power BI projects.
+# Hi, Welcome to my portfolio! Below are my SQL and Power BI projects.
 ---
 
-## 🔍 Commercial SQL Case Studies
+## Commercial SQL Case Studies
 These repositories showcase advanced relational database engineering, data integration audits, and performance tuning capabilities using MySQL and PostgreSQL.
 
 *   📁 **[Post-Merger Operational & Logistics Audit (Northwind)](https://github.com/saeedullah-analyst/northwind-data-analysis)**
@@ -13,7 +13,7 @@ These repositories showcase advanced relational database engineering, data integ
 
 ---
 
-## 📊 Business Intelligence & Power BI Dashboards
+## Business Intelligence & Power BI Dashboards
 These repositories document interactive data storytelling, analytical dashboard engineering, and executive reporting frameworks using Power BI Desktop, Power Query, and DAX.
 
 *   📁 **[Warehouse Material Flow Optimization (Bearbus)](https://github.com)**
