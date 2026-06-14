@@ -16,7 +16,7 @@ These repositories document interactive data storytelling, analytical dashboard 
 
 *   📁 **[Warehouse Material Flow Optimization](https://github.com/saeedullah-analyst/warehouse-logistics-dashboard)** (Bearbus Case Study)
 *   📁 **[Social Media Marketing & KPI Tracking](https://github.com/saeedullah-analyst/marketing-kpi-dashboard)** (TechFuel Case Study)
-*   📁 **[Airport Flight Punctuality Analysis](https://github.com/saeedullah-analyst/marketing-kpi-dashboard)** (LAX Capstone Project)
+*   📁 **[Airport Flight Punctuality Analysis](https://github.com/saeedullah-analyst/lax-flight-punctuality-analysis)** (LAX Capstone Project)
 
 ---
 
