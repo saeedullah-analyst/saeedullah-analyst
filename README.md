@@ -17,7 +17,7 @@ These repositories document interactive data storytelling, analytical dashboard 
 
 *   📁 **[Warehouse Material Flow Optimization (Bearbus)](https://github.com/saeedullah-analyst/warehouse-logistics-dashboard)**
 
-*   📁 **[Social Media Marketing ROI & Data Warehousing (TechFuel)](https://github.com)**
+*   📁 **[Social Media Marketing ROI & Data Warehousing (TechFuel)](https://github.com/saeedullah-analyst/marketing-kpi-dashboard)**
 
 ---
 ## Technical Skills & Core Competencies
